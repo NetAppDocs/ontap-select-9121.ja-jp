@@ -17,18 +17,13 @@ summary: 現在のリリースには、ONTAP Select 固有の新機能や機能�
 [role="lead"]
 ネットアップでは、ONTAP Select を定期的に更新して、新機能と拡張機能を提供しています
 
-[NOTE]
-====
-* ONTAP Select 9.10.1以降、KVMハイパーバイザーに新しいクラスタを導入することはできなくなりました。
-* ONTAP Select 9.11.1以降では、既存のKVMクラスタおよびホストですべての管理機能を使用できなくなりました。ただし、Take offline機能とdelete機能は除きます。
-
-
-====
 
 
 == ONTAP Select 9.12.1
 
 ONTAP Select 9.12.1は、現在のコアONTAP 製品のリリースに新しく開発されたほとんどの機能を活用しています。ONTAP Select 固有の新機能や機能強化は含まれていません。
+
+2024年4月以降、ONTAP Select Deploy 9.12.1はNetApp Support Siteで利用できなくなりました。ONTAP Select Deploy 9.12.1を実行している場合は、できるだけ早くONTAP Select Deploy 9.14.1P2にアップグレードする必要があります。詳細については、を参照してください link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2886733["ONTAP Select 9.14.1リリースノート"^]。
 
 
 
